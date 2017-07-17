@@ -11,3 +11,7 @@ Important note: This app was developed for/on a Samsung Galaxy S7 device using a
 ## Installation
 A google maps api key must be set in the manifest file (it has been removed for obvious reasons). Otherwise installation and usage is self-explanatory.
 
+## Screenshots
+![alt text](screenshots/Screenshot1.png "Session details")
+
+![alt text](screenshots/Screenshot2.png "Session statistics")
